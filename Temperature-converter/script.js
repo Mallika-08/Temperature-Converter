@@ -20,3 +20,8 @@ kelvin.oninput=()=>{
     celsius.value = parseFloat(output1.toFixed(2))
     farenheit.value = parseFloat(output2.toFixed(2))
 }
+
+rankine.oniput = () = > {
+    let output = (parseFloat(kelvin.value)*9)/5;
+    kelvin.value = parseFloat(output.toFixed(2))
+};
