@@ -1,4 +1,4 @@
-**🌡️  # Temperature-Converter 🌡️**
+🌡️  **Temperature-Converter** 🌡️
 
 There are three primary temperature scales: Celsius, Fahrenheit, and Kelvin.
 
